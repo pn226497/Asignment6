@@ -1,0 +1,771 @@
+{
+    "vongco": [
+        {
+            "id": 1,
+            "name": "Dây chuyền đính đá pig titan silver (DC165)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62a4084a38c89a00272e3db9/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d3a971b0cbc50014ee1c99/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 2,
+            "name": "Dây chuyền đính đá cindy titan (DC164)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "390000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62a313bdd900db000f24ed8f/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d3a971b0cbc50014ee1c99/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 3,
+            "name": "Dây chuyền goe titan (DC154)",
+            "Chatlieu": "TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "290000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b1adeb46e72002e44af62/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b19de69b52a0022969ff8/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 4,
+            "name": "Dây chuyền nia titan silver (DC105)",
+            "Chatlieu": "TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b1767fec81500163fb0ed/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b176776b22900198245bd/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 5,
+            "name": "Dây chuyền you&me titan silver (DC095)",
+            "Chatlieu": "TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64953e702cd9fa001a0ee137/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b0e34613122002b7672b3/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 6,
+            "name": "Dây chuyền circle heart titan (DC022)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630ae9e8e755ea00257c3fee/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630ae9e726306e00288935e5/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 7,
+            "name": "Dây chuyền double teddy titan (DC021)",
+            "Chatlieu": "ITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630ae8e873d64900138adf0f/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630ae8e9efba3900160ecccf/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 8,
+            "name": "Dây chuyền ceeny titan silver (DC018)",
+            "Chatlieu": "ITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/649185b16c54540020f51faa/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630ae6a05d5030001f5b66c7/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 9,
+            "name": "Dây chuyền hồ lô lucky titan (DC006)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/649185e0067d4b051a0e19ca/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d3a971b0cbc50014ee1c99/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 10,
+            "name": "Dây chuyền bearbrick titan (DC189)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e61f65b73faa0023fe7df4/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e61f65e92ff1002ff799f1/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 11,
+            "name": "Dây chuyền ngọc trai bti titan silver (DC188)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "390000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e4f16a7e6d4d71a04df26e/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e4f16adf262700117c3d2d/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 12,
+            "name": "Dây chuyền tim feity titan silver (DC094)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64953b6afd8791001a42f48c/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630c263c7e734e00314905dd/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 13,
+            "name": "Dây chuyền myblink titan silver (DC080)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63dbf8ccda34de001d9f2ced/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c9228d90d5af002ca8c3d0/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 14,
+            "name": "Dây chuyền daniel titan silver (DC169)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62b02af2f283e5001e4304cb/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62b02af22307aa002af2bd1a/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 15,
+            "name": "Dây chuyền nefirst titan silver (DC101)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/627115251c910f00152e3a69/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62711524a955000030160872/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 16,
+            "name": "Dây chuyền mickey titan silver (DC159)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64953d65910bb10017aeea8d/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62943f25c51ead7d1bae78e7/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 17,
+            "name": "Dây chuyền bemoa titan (DC121)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64953d8fe71e37001d474531/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6287281ea0c83d00302db8ab/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 18,
+            "name": "Dây chuyền layer ngọc trai đính đá weseyt titan silver (DC109)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6280dbb3a4f034002715f714/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6280dbb30f335b000fd5d33b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 19,
+            "name": "Dây chuyền đá đen agatha titan silver (DC040)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6208e134c6f5f800263e61a5/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6208e1344643e3001da8da86/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 20,
+            "name": "Dây chuyền mino titan (DC007)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "397000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64953e1be7117e001d77cb90/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63c922dbd1f3b3001715db3c/800x.webp?source_format=JPG"
+        }
+    ],
+    "lactay": [
+        {
+            "id": 21,
+            "name": "Lắc tay đính đá xanh 4leaf bạc 999 (9LT012)",
+            "Chatlieu": "Bạc 999",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "1650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/639d870c5c19050014e8601a/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/639d870cae4fd9000e1c071f/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cae1fe487c1b001445f1c6/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 22,
+            "name": "Lắc tay hoa habicus bạc 999 (9LT013)",
+            "Chatlieu": "Bạc 999",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63a00f0c76501200205f7535/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63a00f0cc3110f0020f43016/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63a00f0ba66e1e001a2b371a/800x.webp?source_format=jpg"
+        },
+        
+        {
+            "id": 24,
+            "name": "Lắc tay holly titan (LT097)",
+            "Chatlieu": "Bạc 999",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu. TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "297000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630caf2932acc6001f7572a0/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630caf2f2ed72b002e753a14/800x.webp?source_format=jpeg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630caf3854b1d8002b3dc034/800x.webp?source_format=jpeg"
+        },
+        {
+            "id": 25,
+            "name": "Lắc tay smile bone titan silver (LT096)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "297000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62a6cea327aa78001e75be2c/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62a6cea314abf300128825c3/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62a6cea36303aa002da010aa/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 26,
+            "name": "Lắc tay bi mickeymouse titan silver (LT026)",
+            "Chatlieu": "TITAN pha BẠC",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu. TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dce334e8a190025e66cb8/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dce38dc3a200028d74888/800x.webp?source_format=jpeg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dce430de54b0028c30049/800x.webp?source_format=jpeg"
+        },
+        {
+            "id": 27,
+            "name": "Lắc tay đính đá bling titan silver(LT001)",
+            "Chatlieu": " Hợp kim TITAN pha bạc",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d2b382b14b857aaecea7ce/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e4dbbebf98240011c36043/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d2b394b14b854e32ce73e6/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 28,
+            "name": "Lắc tay ritti titan silver (LT133)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "400000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c50ab86a0db3001dbe4fa5/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c50ab885f37d00200b2529/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c50ab87dcf8500324ccb98/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 29,
+            "name": "Lắc tay phối đá màu phi hành gia astronaut bạc 999 (9LT007)",
+            "Chatlieu": "Bạc 999",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "1650000 ",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63674236941588002b224afb/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/636742360e0cdf0031ad08c2/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/636742368fc10e00313b5a19/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 30,
+            "name": "Lắc tay kiềng núi biển cặp đôi bạc 999 (9LT006)",
+            "Chatlieu": "Bạc 999",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "1900000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370ef7769fd9b0031105f22/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370ef77feb14e0013e7068c/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370ef77f18bc7001fbe32dc/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 31,
+            "name": "Lắc tay chain titan silver (LT032)",
+            "Chatlieu": "TITAN pha BẠC",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu. TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62fca01786057c0028de4d54/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62fca0179d6212001f3f0a35/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62fca01778550d00221cae1d/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 32,
+            "name": "Lắc tay deeping titan silver (LT095)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62b41958a148320024e3c7d7/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62b41958afddcd0015a13bb3/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62b41958d35d6e0015a3cf0c/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 33,
+            "name": "Lắc tay kiềng flowerr bạc 999 (9LT002)",
+            "Chatlieu": "Bạc 999",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "1600000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d2b23e659cd1000d8f8af2/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370ed9613604d0013de9773/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370ed967b290500252d4a9d/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 34,
+            "name": "Lắc tay gấu beary titan (LT070)",
+            "Chatlieu": "TITAN pha BẠC",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu. TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630e0396432e5d002e88355d/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630e039f9969b400137f54b6/800x.webp?source_format=jpeg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630e03a64474be00256c57fe/800x.webp?source_format=jpeg"
+        },
+        {
+            "id": 35,
+            "name": "Lắc tay livin titan (LT140)",
+            "Chatlieu": " TITAN pha BẠC",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu.TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "400000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dff25427fac0019b488d0/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dff2e0558c90010ec8b76/800x.webp?source_format=jpeg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630dff2af3eb7a001c8cb273/800x.webp?source_format=jpeg"
+        },
+        {
+            "id": 36,
+            "name": "Lắc tay kì lân sam titan (LT049)",
+            "Chatlieu": "Bạc 999",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu.TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630cad9ab24b400013005aa6/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630cad83a4c4350022064326/800x.webp?source_format=jpeg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cae1fe487c1b001445f1c6/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 37,
+            "name": "Lắc tay hiphop titan silver(LT146)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu.TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b4b2e65e35a0013bcf99d/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e4d7fde800b10027a6c513/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62e4d7fc958b400029437ea9/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 38,
+            "name": "Lắc tay daniel titan (LT042)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu.TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630b442427d8e90025f36c53/800x.webp?source_format=jpeg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d2a25b5ae47b0015126f1f/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63ca40099c92330011a3af75/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 39,
+            "name": "Lắc tay nekky titan silver (LT044)",
+            "Chatlieu": "Hợp kim TITAN bạc",
+            "description": "Có độ bền cao, KHÔNG rỉ sét, KHÔNG phai màu.TITAN là hợp kim rất bền, chất liệu lành tính, kháng kiềm, không kén mồ hôi, không gây dị ứng, phù hợp cả da thường và da nhạy cảm ",
+            "Gia": "300000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63dbfad2a1299e0022c38908/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63dbfaecdd16dd00145d272a/800x.webp?source_format=JPG",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63dbfad222894c001ae5f08b/800x.webp?source_format=JPG"
+        },
+        {
+            "id": 40,
+            "name": "Lắc tay đá màu magice bạc 925 đặc (5LT002)",
+            "Chatlieu": "Bạc 925 đặc",
+            "description": "Dòng sản phẩm của Tepys đã được kiểm định kỹ về chất lượng bạc, bạc 999 với tỉ lệ bạc trên 99,9% và 0,1% các hợp kim khác theo đúng chuẩn quốc tế",
+            "Gia": "1975000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370dde232f27600258c789b/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d291fa0ae404000ee6f75f/800x.webp?source_format=jpg",
+            "image2": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370dde21eadbd001907e8c2/800x.webp?source_format=jpg"
+        }
+    ],
+    "nhan": [
+        {
+            "id": 41,
+            "name": "Nhẫn đính đá không chân bạc 99 (9N048)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "400000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/649144ef123297001ae36697/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 42,
+            "name": "Nhẫn triple chéo đính đá",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64914eeef3eded27bab6a4d2/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 43,
+            "name": "Nhẫn charm trái tim bạc 99 (9N039)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64913f94b48a8d001a59643b/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 44,
+            "name": "Nhẫn đính đá hugerick bạc 99 (9N013)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "750000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64913e8f2ecd36000ee53965/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 45,
+            "name": "Nhẫn bạc xoắn cao cấp 99 (9N056)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "120000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6491354ecac8c8001aab5cdd/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 46,
+            "name": "Nhẫn đính đá deery bạc 99 (9N017)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/64913c53decaf800200060c2/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 47,
+            "name": "Nhẫn double đính nơ (9N037)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/648da61e9d1c410011921f5f/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 48,
+            "name": "Nhẫn đính đá hạt tim (9N031)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/648da57cee2f3f001af33b68/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 49,
+            "name": "Nhẫn lượn sóng đính hạt (9N032)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "550000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/648da48d87cec2002014d2e3/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 50,
+            "name": "Nhẫn đính đá vuông tracy bạc 999 (9N028)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e3fceb031f00115284ee/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+
+        },
+        {
+            "id": 51,
+            "name": "Nhẫn đính đá crown bling bạc 999 (9N027)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aca6fc8002008801e/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 52,
+            "name": "Nhẫn họa tiết skyling bạc 999 (9N019)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cae16afb0b510014cf50d9/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 53,
+            "name": "Nhẫn cartoon gingerbread bạc 925 đặc (5N001)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/639d9980edcd2b0023286d7b/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 54,
+            "name": "Nhẫn đính đá titanic bạc 999 (9N022)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/639d9839a8f7de0015f089b3/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 55,
+            "name": "Nhẫn họa tiết daylight bạc 999 (9N007)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/637118b013604d001cde8ed0/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 56,
+            "name": "Nhẫn đính đá tutuing titan (N154)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "187000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62496412501440002acfc7e3/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 57,
+            "name": "Nhẫn 3hearting bạc 999 (9N015)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6dffde6450c0020999d93/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 58,
+            "name": "Nhẫn high bạc 999 (9N020)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/639d8879fa16a9001a5afaf7/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 59,
+            "name": "Nhẫn đính đá poly bạc 999 (9N010)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63711bc19909ad001c841302/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63e0eebbdf242a001dc02f4e/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 60,
+            "name": "Nhẫn đính đá roly bạc 999 (9N011)",
+            "Chatlieu": "Bạc 999",
+            "description": "Bảo vệ sức khoẻ, phù hợp cho da thường và da nhạy cảm. Trang sức không gỉ sét, không phai màu.",
+            "size": "Freesize",
+            "Gia": "650000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63711d25efdf1900282cdec0/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e50aa5eb6f001a200d1b/800x.webp?source_format=jpg"
+        }
+    ],
+    "bongtai": [
+        {
+            "id": 61,
+            "name": "Bông tai kẹp đính đá ladonna titan silver (cái) (BT044)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "115000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6207b60f92cc090017f1b72b/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6207b60f92cc090017f1b72b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 62,
+            "name": "Bông tai dollar titan (BT142)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "115000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63c91c1dfb0b510023cec85a/800x.webp?source_format=JPG",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63c91c1d19f7de001ae56e48/800x.webp?source_format=JPG"
+        },
+        {
+            "id": 63,
+            "name": "Bông tai laura light titan silver (BT126)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "150000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/60af9a8765f6690011da2b17/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/60af9a870d5b5e001d65e542/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 64,
+            "name": "Bông tai bươm bướm oin titan (BT158)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c51ae5e79903002cd58ad4/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c51ae5b4bcd60023276b4b/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 65,
+            "name": "Bông tai lò xo themia titan silver (BT053) (1 cái)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "115000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c3f3334b02d47f1b64f5cc/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62c3f333cec9510011e5aa46/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 66,
+            "name": "Bông tai duke titan (BT237)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6223158727d7e500299013e7/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cbc857bf615a001137452a/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 67,
+            "name": "Bông tai đính đá weseyt titan silver (BT224)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/622458f984351d002c636303/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6224592683ab8e0020c2d3c8/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 68,
+            "name": "Bông tai đá xanh aonani titan (BT242)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cad5da95127b000e12ec2c/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cad5da1fc90e00233ea0c2/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 69,
+            "name": "Bông tai xiixii titan silver (BT034)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630594f481ab800013f71666/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/630594f50ad9c9001fce535e/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 70,
+            "name": "Bông tai tròn basic helix titan silver (BT022)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302fdebb4b034001fdbf330/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302fdeb59f5ec0031cd2371/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 71,
+            "name": "Bông tai bad rabbit titan silver (BT020)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63cae84d17593a002343125e/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f73a5164ab001cbc5b39/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 72,
+            "name": "Bông tai flashy titan silver (BT028)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f5d1d6ad9b002585a843/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f5d14e0da100173a11df/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 73,
+            "name": "Bông tai tròn layer phối xích titan silver (BT025)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f4ea83a4b7002bfb75cb/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f4eaa62dec001f50bea5/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 74,
+            "name": "Bông tai caro dragon titan (BT024)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "215000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f38f101dd60019dca7ff/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f38e758f0b00166edfb1/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 75,
+            "name": "Bông tai kẹp peace titan silver (BT023)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f236fb7337001c209916/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6302f236931e52001c7935ab/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 76,
+            "name": "Bông tai phối xích pys titan silver (BT188)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "150000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62da9a6e681874002613118b/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/62da9a6edd000a0026670be3/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 77,
+            "name": "Bông tai vòng tròn chorm heart titan silver (1 cái) (BT035)",
+            "Chatlieu": "Bạc 999",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63253c896765843e209cbe01/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63253c89241275001c65c613/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 78,
+            "name": "Bông tai hình thoi kitta titan silver (BT005)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "250000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e619c94ad2000e9eceab/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63d6e630d35f2500234ee55a/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 79,
+            "name": "Bông tai thỏ corny bạc 999 (9BT016)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "450000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63ad3c78a3caf8000ec9c945/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/63ad3c7894e7e0001dad8e86/800x.webp?source_format=jpg"
+        },
+        {
+            "id": 80,
+            "name": "Bông tai đính đá con voi bạc 999 (9BT009)",
+            "Chatlieu": "Hợp kim TITAN pha bạc",
+            "description": "Có độ bền cao, lành tính, KHÔNG rỉ sét, KHÔNG phai màu, KHÔNG kén mồ hôi, KHÔNG gây dị ứng phù hợp cả da thường và da nhạy cảm",
+            "Gia": "350000",
+            "image": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370e87f8105330019ba9e53/800x.webp?source_format=jpg",
+            "image1": "https://shoplineimg.com/602cd0ce4bf8b2002e5d7dd3/6370e87f0b88ce002b6ef748/800x.webp?source_format=jpg"
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+#iconpulse{
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 0px 100px 30rem;
+}
+.pulse i{
+    color: #fff;
+    font-size: 2rem;
+}
+.pulse{
+    background: rgb(14, 213, 40);
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.pulse:hover{
+    background: rgb(11, 170, 32);
+    
+}
+.pulse::before{
+    content: "";
+    position: absolute;
+    width: calc(100% + 20px);
+    height: calc(100% + 20px);
+    border: 2px solid rgb(14, 213, 40);
+    border-radius: 50%;
+    animation:w1Effect 1.5s linear infinite ;
+}
+.pulse::after{
+    content: "";
+    position: absolute;
+    width: calc(100% + 20px);
+    height: calc(100% + 20px);
+    border: 2px solid rgb(14, 213, 40);
+    border-radius: 50%;
+    animation:w1Effect 1.5s linear infinite ;
+    animation-delay: 0.4s;
+}
+@keyframes w1Effect{
+    0%{
+        transform: scale(0.5);
+        opacity: 0;
+    }
+    50%{
+        transform: scale(1);
+        opacity: 1;
+    }
+    100%{
+        transform: scale(1.4);
+        opacity: 0;
+    }
+}
+
+#formMes{
+    width: 350px;
+    background-color: #fff;
+    height: 400px;
+}
+
+.mess {
+    display: flex;
+    position: relative;
+    margin-left: 10%;
+    padding-top: 45vh;
+  }
+  
+  .mess input[type="text"] {
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .mess button[type="submit"] {
+    background-color: rgb(58, 64, 230);
+    border: none;
+    color: #0d0101;
+    cursor: pointer;
+    padding: 10px 20px;
+    margin: 19px 40px ;
+    border-radius: 20px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    /* position: fixed; */
+    bottom: 0;
+    right: 0;
+    transition: .9s ease;
+     width: 70px;
+    
+  }
+  
+  .mess button[type="submit"]:hover {
+    transform: scale(1.1);
+    color: rgb(203, 203, 207);
+    background-color: blue;
+  }
+  

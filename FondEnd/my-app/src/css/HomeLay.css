@@ -1,0 +1,66 @@
+
+
+
+ul{
+    list-style-type:none;
+}
+a,a:hover{
+    text-decoration: none;
+}
+
+.buttonItem1{
+  position: relative; 
+  margin: -200px 0px 20px 10%;
+  color: white;
+  width: 20%; 
+  background-color: rgba(255 ,255 ,0, 0.3)
+}
+.buttonItem1:hover, .buttonItem2:hover{
+  background-color: darkolivegreen;
+}
+
+.buttonItem2{
+  position: relative; 
+  margin: -30px 0px 20px 35%;
+  color: white;
+  width: 20%; 
+  background-color: rgba(255 ,255 ,0, 0.3)
+}
+
+#layoutimg{
+  width: 250px;
+  border-radius: 10px;
+  margin: 20px 0;
+  filter: grayscale(0%);
+    transition: 0.5s ease;
+    cursor: pointer;
+
+}
+
+#layoutimg:hover{
+  filter: grayscale(0%);
+    transform: scale(1.1);
+}
+
+#itemInfo {
+    background-color: bisque;
+    border-radius: 8px;
+    margin-left: 20px;
+    padding: 5px;
+    border: none;
+    box-shadow: 5px 2px 8px 0px rgb(117, 116, 115);
+}
+#itemInfo:hover{
+  transform: translate(1px, 1.5px);
+
+}
+.name{
+  text-align: center;
+  max-width: 210px;
+  height: 45px;
+  overflow: hidden;
+  display: block;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
